@@ -1,0 +1,26 @@
+Équipe 1
+PO : Melnyk
+SM : Oleg
+membre 1 : Iana
+membre 2 : Piotr
+
+
+
+Équipe 2
+PO : Ali
+SM : Jonathan
+membre 1 : Mehran
+membre 2 : Alex
+
+
+Équipe 3
+PO : Marie-Josée
+SM : Omar
+membre 1 : Maxime
+membre 2 : Fred
+
+Équipe 4
+PO : Jansy
+SM : Guilherme
+membre 1 : Marcello
+membre 2 : He
